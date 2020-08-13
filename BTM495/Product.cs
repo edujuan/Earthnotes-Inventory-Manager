@@ -14,6 +14,7 @@ namespace BTM495
         public int Quantity { get; set; }
         public int TypeID { get; set; }
 
+        //h
 
         public string FullInfo
             //basically a string that would contain all of the info when we get values from DB
